@@ -55,7 +55,7 @@ valenstiowiyogo@gmail.com
   <tbody>
     <tr>
       <td align="center">
-        <img src="https://github.com/lasiest/lasiest/blob/main/GIF/AnimalTrafficJamGIFv2.gif" alt="1" style="width:100%;height:auto;">
+        <img src="https://github.com/lasiest/lasiest/blob/main/GIF/AnimalTrafficJamGIF.gif" alt="1" style="width:100%;height:auto;">
       </td>
       <td align="center">
         <img src="https://github.com/lasiest/lasiest/blob/main/GIF/PneumatiphobiaGIF.gif" alt="2" style="width:100%;height:auto;">
