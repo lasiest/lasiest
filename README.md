@@ -1,9 +1,9 @@
 Hi, I'm Valenstio 👋
 ---
 **📌About** <br>
-Hi, I'm Valenstio, also known as lasiest. I specialize in VR Development, 2D or 3D Game Development.I've created many project either for works purpose or my personal purpose using Unity game engine.  
+Hi, I'm Valenstio, also known as Lasiest. I specialize in VR development and 2D/3D game development, primarily using the Unity game engine. I have created numerous projects for both professional and personal purposes.
 
-I'm passionate about Game Development in General, especially VR application, I develop mostly for works where i create nursery and welding simulation.
+I am passionate about game development, particularly VR applications. My professional work often involves developing simulations, such as nursery and welding training programs.
 
 **📩Email** <br>
 valenstiowiyogo@gmail.com
