@@ -27,8 +27,8 @@ valenstiowiyogo@gmail.com
       </td>
     </tr>
     <tr>
-      <td valign="text-top">Welding Simulation is project to training the player about how to welding from using the weld machine, airflow, electricity, to welding activity. My contribution in this project is to create the core mechanic to weld itself from the weld machine feature, to weld feature. I also contribute in collect data from weld feature (weld angle and welding speed).</td> <!--desc-->
-      <td valign="text-top">Nursery Simulatoin is project to training the player how nursery works from collect item from shelf, check patient condition, change bandage and also checklist the tablet to see if every steps is done correctly. My contribution to this project is to create task feature, trolley, tablet, environment feature (curtain and blanket), some of the item to check patient condition, and the game flow itself</td> <!--desc-->
+      <td valign="text-top">Welding Simulation is a project designed to train players in the various aspects of welding, including using the welding machine, managing airflow and electricity, and performing welding activities. My contributions to this project include developing the core welding mechanics, such as the welding machine and welding process features. Additionally, I implemented data collection for welding parameters, including weld angle and welding speed.</td> <!--desc-->
+      <td valign="text-top">Nursery Simulation is a project designed to train players in nursery tasks, including collecting items from shelves, checking patient conditions, changing bandages, and using a tablet to ensure all steps are completed correctly. My contributions to this project include developing the task system, implementing features such as the trolley and tablet, creating interactive environment elements like curtains and blankets, designing some of the items used for patient check-ups, and managing the overall game flow.</td> <!--desc-->
     </tr>
     <tr>
       <td align="center"><a href="https://drive.google.com/file/d/1H88DSGpED-fo98rluK1p5r2hEU-h7c_6/view?usp=drive_link">More about this project</a></td> <!--link1-->
