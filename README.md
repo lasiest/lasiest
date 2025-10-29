@@ -83,16 +83,16 @@ valenstiowiyogo@gmail.com
         <img src="https://github.com/lasiest/lasiest/blob/main/GIF/ModengGoGIF.gif" alt="5" style="width:100%;height:auto;">
       </td>
       <td align="center">
-        <img src="[GIF_URL_6]" alt="6" style="width:100%;height:auto;">
+        <img src="https://github.com/lasiest/lasiest/blob/main/GIF/GoblinTavernMobileGIF.gif" alt="6" style="width:100%;height:auto;">
       </td>
     </tr>
     <tr>
       <td valign="text-top">ModengGO is Idle RougeLike Game which is have Shop System, Leveling System, Equipment System, and Also Lot of Skill in the Gameplay, Event is run is Randomized based on Map, Which makes it more Randomized, the Skill also Randomized Each Run making the Game doesnt feel repetitive. This Game also already integrated with Google Play Account and the Data is saved accross session.</td>
-      <td valign="text-top">Goblin Tavern Mobile Desc</td>
+      <td valign="text-top">Goblin Tavern Mobile is Idle Adventure Game Where the Player can Summon Hero, level up the hero, and use them to do some Adventuring and then got resource from there. The Resource can be used to improve the base, summon other heroes, and also level heroes based on the resource obtained</td>
     </tr>
     <tr>
       <td align="center"><a href="https://drive.google.com/file/d/1fBHweY_k8HqrT8zKAKm3VlqoDMyd4_qa/view?usp=sharing">More about this project</a></td>
-      <td align="center"><a href="[LINK_6]">More about this project</a></td>
+      <td align="center"><a href="">More about this project</a></td>
     </tr>
   </tbody>
 </table>
