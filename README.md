@@ -80,7 +80,7 @@ valenstiowiyogo@gmail.com
   <tbody>
     <tr>
       <td align="center">
-        <img src="https://github.com/lasiest/lasiest/blob/main/GIF/ModengGOGIF.gif" alt="5" style="width:100%;height:auto;">
+        <img src="https://github.com/lasiest/lasiest/blob/main/GIF/ModengGOGIF.mp4" alt="5" style="width:100%;height:auto;">
       </td>
       <td align="center">
         <img src="[GIF_URL_6]" alt="6" style="width:100%;height:auto;">
