@@ -87,7 +87,7 @@ valenstiowiyogo@gmail.com
       </td>
     </tr>
     <tr>
-      <td valign="text-top">ModengGO Desc</td>
+      <td valign="text-top">ModengGO is Idle RougeLike Game which is have Shop System, Leveling System, Equipment System, and Also Lot of Skill in the Gameplay, Event is run is Randomized based on Map, Which makes it more Randomized, the Skill also Randomized Each Run making the Game doesnt feel repetitive. This Game also already integrated with Google Play Account and the Data is saved accross session.</td>
       <td valign="text-top">Goblin Tavern Mobile Desc</td>
     </tr>
     <tr>
